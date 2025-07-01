@@ -86,3 +86,6 @@ Run the bot using:
 - Sensitive commands (like server invites) are removed from public version.
 - TTS files are unique per message to avoid race conditions.
 - Use command permissions wisely to prevent abuse.
+
+### Note:
+This bot is under development for adding new features and integration. Feel free to post your suggestions and feedbacks.
