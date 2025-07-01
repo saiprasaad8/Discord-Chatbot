@@ -20,8 +20,8 @@ An Discord chatbot built using `discord.py`, GPT-based AI models, TTS integratio
 
 ### 1. Clone the Repo
 
-git clone https://github.com/your-username/ai-discord-chatbot.git
-cd ai-discord-chatbot
+`git clone https://github.com/your-username/ai-discord-chatbot.git`<br>
+`cd ai-discord-chatbot`
 
 ### 2. Set Up Environment
 
