@@ -1,3 +1,8 @@
+"""
+Discord Bot
+
+@author: saiprasaad
+"""
 import asyncio
 import os
 import io
