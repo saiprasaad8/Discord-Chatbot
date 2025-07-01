@@ -1,6 +1,5 @@
 """
-Discord Bot
-
+Discord Chat-Bot
 @author: saiprasaad
 """
 import asyncio
