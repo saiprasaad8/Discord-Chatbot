@@ -4,3 +4,4 @@ aiohttp==3.9.5
 requests==2.31.0
 gTTS==2.5.1
 flask==3.0.3
+openai==1.30.1
